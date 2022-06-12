@@ -1,18 +1,18 @@
-# Woodcoins 
+# Lotuscoins 
 
-This is the ultra-stable backbone full node and wallet for woodcoin,
+This is the ultra-stable backbone full node and wallet for lotuscoin,
 the project aiming to be the longest lived and cheapest public blockchain.  
 
 > openssl version
 OpenSSL 1.1.0g  2 Nov 2017
 
-If you have OpenSSL v. 1.0.x please use the "woodcoin-openssl-1.0" version of this repository located here:  
-http://github.com/funkshelper/woodcoin-openssl-1.0.git
+If you have OpenSSL v. 1.0.x please use the "lotuscoin-openssl-1.0" version of this repository located here:  
+http://github.com/funkshelper/lotuscoin-openssl-1.0.git
 
 
 ============================================
 
-The Woodcoin block chain is a log structured database.
+The Lotuscoin block chain is a log structured database.
 
 The money supply is logarithmic.
 
@@ -58,18 +58,18 @@ sudo apt-get install git build-essential libboost-all-dev libssl-dev qt-sdk libd
 
 Get the source with this command:
 
-git clone https://github.com/funkshelper/woodcoin.git
+git clone https://github.com/funkshelper/lotuscoin.git
 
-To build woodcoin-qt issue “qmake” and then “make“.  qt4 is required, on some systems you may need to issue “export QT_SELECT=qt4” to ensure the proper version is used.
+To build lotuscoin-qt issue “qmake” and then “make“.  qt4 is required, on some systems you may need to issue “export QT_SELECT=qt4” to ensure the proper version is used.
 
-To build woodcoind by itself navigate to /src/ and issue make -f makefile.unix.
+To build lotuscoind by itself navigate to /src/ and issue make -f makefile.unix.
 
 --------------------------------------------
 ## Mining (Woodcutting)
 
-To start woodcutting with woodcoind, simply launch it like this: 
+To start woodcutting with lotuscoind, simply launch it like this: 
 
-```./woodcoind setgenerate true```
+```./lotuscoind setgenerate true```
 
 For the graphical client, simply go into the debug window (under Help) and type:
 
@@ -86,4 +86,4 @@ For the graphical client, simply go into the debug window (under Help) and type:
 
 * v1.2 - Solidifying full node w/ version update.  Block 962000
 
-### Visit Woodcoin.org for more information. 
+### Visit Lotuscoin.org for more information. 
