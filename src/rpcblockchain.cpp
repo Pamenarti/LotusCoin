@@ -106,8 +106,8 @@ Value settxfee(const Array& params, bool fHelp)
 {
     if (fHelp || params.size() < 1 || params.size() > 1)
         throw runtime_error(
-            "settxfee <amount LOG/KB>\n"
-            "<amount> is a real and is rounded to the nearest 0.00000001 LOG per KB");
+            "settxfee <amount LTS/KB>\n"
+            "<amount> is a real and is rounded to the nearest 0.00000001 LTS per KB");
 
     // Amount
     int64 nAmount = 0;
