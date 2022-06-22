@@ -7,7 +7,7 @@ the project aiming to be the longest lived and cheapest public blockchain.
 OpenSSL 1.1.0g  2 Nov 2017
 
 If you have OpenSSL v. 1.0.x please use the "lotuscoin-openssl-1.0" version of this repository located here:  
-http://github.com/funkshelper/lotuscoin-openssl-1.0.git
+http://github.com/Pamenarti/lotuscoin-openssl-1.0.git
 
 
 ============================================
@@ -58,16 +58,16 @@ sudo apt-get install git build-essential libboost-all-dev libssl-dev qt-sdk libd
 
 Get the source with this command:
 
-git clone https://github.com/funkshelper/lotuscoin.git
+git clone https://github.com/Pamenarti/lotuscoin.git
 
 To build lotuscoin-qt issue “qmake” and then “make“.  qt4 is required, on some systems you may need to issue “export QT_SELECT=qt4” to ensure the proper version is used.
 
 To build lotuscoind by itself navigate to /src/ and issue make -f makefile.unix.
 
 --------------------------------------------
-## Mining (Woodcutting)
+## Mining (lotuscutting)
 
-To start woodcutting with lotuscoind, simply launch it like this: 
+To start lotuscutting with lotuscoind, simply launch it like this: 
 
 ```./lotuscoind setgenerate true```
 
@@ -80,10 +80,10 @@ For the graphical client, simply go into the debug window (under Help) and type:
 
 ## Changelog:
 
-* v1.0 - Baruk Khazad!  Woodcutting for the masses.
+* v1.0 - Baruk Khazad!  lotuscutting for the masses.
 
 * v1.1 - Hard fork to litecoin branch.  Block 3002.
 
 * v1.2 - Solidifying full node w/ version update.  Block 962000
 
-### Visit Lotuscoin.org for more information. 
+### Visit Lotuscoin.xyz for more information. 
