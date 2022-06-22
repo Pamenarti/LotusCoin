@@ -10,7 +10,7 @@ If you have OpenSSL v. 1.0.x please use the "lotuscoin-openssl-1.0" version of t
 http://github.com/Pamenarti/lotuscoin-openssl-1.0.git
 
 
-============================================
+--------------------------------------------
 
 The Lotuscoin block chain is a log structured database.
 
@@ -20,7 +20,7 @@ The unit is log.
 
 Dedicated to Log, Twig, Chip, Woody, and the rest of all y'all.  
  
-============================================
+--------------------------------------------
 
 Technical Details:
 ```
@@ -44,17 +44,16 @@ Technical Details:
 
 * Algo = Pure Skein (double skein) Bruce Schneier is a lumberjack and NSA didn't choose this algo.
 ```
-=============================================
-Build Instructions
+========== Build Instructions ==========
 
 You will need these dependencies or equivalent:
 
->>>>>>
+--------------------------------------------
 ```
 sudo apt-get install git build-essential libboost-all-dev libssl-dev qt-sdk libdb-dev libdb++-dev libminiupnpc-dev libqrencode-dev 
 ```
 
->>>>>>
+--------------------------------------------
 
 Get the source with this command:
 ```
@@ -75,7 +74,7 @@ For the graphical client, simply go into the debug window (under Help) and type:
 
 ```setgenerate true```
 
-=============================================
+--------------------------------------------
 
 
 ## Changelog:
