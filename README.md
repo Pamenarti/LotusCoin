@@ -67,7 +67,7 @@ To build lotuscoind by itself navigate to /src/ and issue make -f makefile.unix.
 
 To start lotuscutting with lotuscoind, simply launch it like this: 
 ```
-```./lotuscoind setgenerate true```
+./lotuscoind setgenerate true
 ```
 For the graphical client, simply go into the debug window (under Help) and type:
 
