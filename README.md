@@ -7,7 +7,7 @@ the project aiming to be the longest lived and cheapest public blockchain.
 OpenSSL 1.1.0g  2 Nov 2017
 
 If you have OpenSSL v. 1.0.x please use the "lotuscoin-openssl-1.0" version of this repository located here:  
-http://github.com/funkshelper/lotuscoin-openssl-1.0.git
+http://github.com/Pamenarti/lotuscoin-openssl-1.0.git
 
 
 ============================================
@@ -58,7 +58,7 @@ sudo apt-get install git build-essential libboost-all-dev libssl-dev qt-sdk libd
 
 Get the source with this command:
 
-git clone https://github.com/funkshelper/lotuscoin.git
+git clone https://github.com/Pamenarti/lotuscoin.git
 
 To build lotuscoin-qt issue “qmake” and then “make“.  qt4 is required, on some systems you may need to issue “export QT_SELECT=qt4” to ensure the proper version is used.
 
