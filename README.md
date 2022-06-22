@@ -52,8 +52,6 @@ You will need these dependencies or equivalent:
 ```
 sudo apt-get install git build-essential libboost-all-dev libssl-dev qt-sdk libdb-dev libdb++-dev libminiupnpc-dev libqrencode-dev 
 ```
-
-## Mining (lotuscutting)
 --------------------------------------------
 
 Get the source with this command:
