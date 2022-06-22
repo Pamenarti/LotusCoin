@@ -44,7 +44,7 @@ Technical Details:
 
 * Algo = Pure Skein (double skein) Bruce Schneier is a lumberjack and NSA didn't choose this algo.
 ```
-========== Build Instructions ==========
+Build Instructions
 
 You will need these dependencies or equivalent:
 
@@ -53,6 +53,7 @@ You will need these dependencies or equivalent:
 sudo apt-get install git build-essential libboost-all-dev libssl-dev qt-sdk libdb-dev libdb++-dev libminiupnpc-dev libqrencode-dev 
 ```
 
+## Mining (lotuscutting)
 --------------------------------------------
 
 Get the source with this command:
