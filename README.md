@@ -17,8 +17,6 @@ The Lotuscoin block chain is a log structured database.
 The money supply is logarithmic.
 
 The unit is log.
-
-Dedicated to Log, Twig, Chip, Woody, and the rest of all y'all.  
  
 --------------------------------------------
 
@@ -42,7 +40,7 @@ Technical Details:
 
 * ECDSA curve: X9_62_prime256v1 
 
-* Algo = Pure Skein (double skein) Bruce Schneier is a lumberjack and NSA didn't choose this algo.
+* Algo = Pure Skein2 (double skein) Bruce Schneier is a lumberjack and NSA didn't choose this algo.
 ```
 Build Instructions
 
@@ -73,15 +71,4 @@ For the graphical client, simply go into the debug window (under Help) and type:
 
 ```setgenerate true```
 
---------------------------------------------
 
-
-## Changelog:
-
-* v1.0 - Baruk Khazad!  lotuscutting for the masses.
-
-* v1.1 - Hard fork to litecoin branch.  Block 3002.
-
-* v1.2 - Solidifying full node w/ version update.  Block 962000
-
-### Visit Lotuscoin.xyz for more information. 
