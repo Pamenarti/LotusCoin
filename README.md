@@ -48,7 +48,9 @@ You will need these dependencies or equivalent:
 
 --------------------------------------------
 ```
-sudo apt-get install git build-essential libboost-all-dev libssl-dev qt-sdk libdb-dev libdb++-dev libminiupnpc-dev libqrencode-dev 
+sudo apt-get update
+sudo apt-get install git build-essential libevent-dev libzmq5-dev libzmq3-dev libboost-all-dev libssl-dev libminiupnpc-dev libqrencode-dev unzip zip -y
+sudo apt-get install build-essential pkg-config libc6-dev m4 g++-multilib autoconf libtool ncurses-dev unzip git zlib1g-dev wget curl bsdmainutils automake cmake clang ntp ntpdate nano -y
 ```
 --------------------------------------------
 
