@@ -76,7 +76,7 @@ Installing the dependencies using MacPorts is very straightforward.
 
 1. Clone the github tree to get the source code and go into the directory.
 
-        git clone git@github.com:litecoin-project/litecoin.git litecoin
+        git clone git@github.com:Pamenarti/lotuscoin.git litecoin
         cd litecoin
 
 2.  Build litecoind:
@@ -111,7 +111,7 @@ Rerunning "openssl version" should now return the correct version.
 
 1. Clone the github tree to get the source code and go into the directory.
 
-        git clone https://github.com/litecoin-project/litecoin.git
+        git clone https://github.com/Pamenarti/lotuscoin.git
         cd litecoin
 
 2.  Modify source in order to pick up the `openssl` library.
