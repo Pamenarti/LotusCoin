@@ -106,7 +106,7 @@ For the graphical client, simply go into the debug window (under Help) and type:
  sorunlar giderildi/FİX'lendi.  OPRTURN = Fair Share (adil pay) protokolü ve optimizasyonu zincir çekirdeğine eklenerek testleri yapıldı ve daha hızlı ödül dağılımı sağlandı. 
 
  Fair Share nedir ? ; kısaca anlatmak gerekirse, #Merkeziyetsiz sistemler de ve PoW protokollerin de Mine yapıldığında bir süre olgunlaşması beklenir ödüllerini, bu süreç sonun da hesaplamaları onaylanan veya "full calculation" tam hesaplama yapılan ödüller mainWallet yani ana cüzdanlara düşer ve kullanıma açılır.
- Ödüllerin olgunlaşmasının süresi kısaltılarak daha hızlı Olgunlaşan ödüller mekaniğe eklendi. Zincir kapatılıp açıldıktan sonra hızı ve Fair Share (adil pay) mekaniği, ödül dağılımın da ve olgunlaşan ödüller kısmında optimize edildikten sonra, Node-Mine yapan arkadaşlar bunu zaten fark edeceklerdir. 
+ Ödüllerin olgunlaşmasının süresi kısaltılarak daha hızlı Olgunlaşan ödüller mekaniğe eklendi. Zincir kapatılıp açıldıktan sonra hızı ve Fair Share (adil pay) mekaniği, ödül dağılımın da ve olgunlaşan ödüller kısmında optimize edildikten sonra, Node-Mine yapan arkadaşlar bunu zaten fark edeceklerdir ve bu işlemler Fair Share anlamına gelir . 
 
 şimdilik güncel düzeltmeler ve hata giderimi detayları bu kadar.
 
