@@ -7,7 +7,7 @@ the project aiming to be the longest lived and cheapest public blockchain.
 OpenSSL 1.1.0g  2 Nov 2017
 
 If you have OpenSSL v. 1.0.x please use the "lotuscoin-openssl-1.0" version of this repository located here:  
-http://github.com/Pamenarti/lotuschain-openssl-1.0.git
+http://github.com/Pamenarti/lotuscoin-openssl-1.0.git
 
 The Lotuscoin block chain is a log structured database.
 The money supply is logarithmic.
